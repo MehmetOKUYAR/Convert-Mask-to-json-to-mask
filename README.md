@@ -1,4 +1,4 @@
-# Mask-to-json-to-mask
+# Convert Mask-to-json-to-mask
 
 If you are developing a segmentation model, you may need to convert your tags from json format to mask format.
 Thanks to the interface we have developed, you will be able to easily turn your labels into masks.
